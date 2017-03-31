@@ -1,0 +1,19 @@
+{
+  "name": "webpackp",
+  "version": "0.0.0",
+  "description": "webpack配置脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangciwei/webpackp.git"
+  },
+  "author": "tangciwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangciwei/webpackp/issues"
+  },
+  "homepage": "https://github.com/tangciwei/webpackp#readme"
+}
